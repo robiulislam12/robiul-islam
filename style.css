@@ -36,7 +36,7 @@ h1 {
 .banner-area {
   background: url("./images/top-banner.png") no-repeat;
 }
-a.btn {
+.btn {
   border: 1px solid palegreen;
   background: palegreen;
   display: inline-block;
@@ -52,7 +52,7 @@ a.btn {
   text-transform: uppercase;
 }
 
-a.btn:hover {
+.btn:hover {
   background: transparent;
   border: 1px solid palegreen;
 }
